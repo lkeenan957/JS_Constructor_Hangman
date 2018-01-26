@@ -1,0 +1,23 @@
+{
+  "name": "js_constructor_hangman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lkeenan957/JS_Constructor_Hangman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lkeenan957/JS_Constructor_Hangman/issues"
+  },
+  "homepage": "https://github.com/lkeenan957/JS_Constructor_Hangman#readme",
+  "dependencies": {
+    "inquirer": "^5.0.1",
+    "is-letter": "^1.1.1"
+  }
+}
